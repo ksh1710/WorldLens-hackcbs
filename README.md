@@ -14,15 +14,15 @@ as a viable payment option
 * Github - Our project is stored in the github repository using github LFS extensions due to file sizes being too large
 
 ## Meet the Team
-~Praveen Prakash Pal 
- - [Tweet at me](https://twitter.com/your_username) 
- - palprakashpraveen@gmail.com 
- - [linkedin](https://www.linkedin.com/in/praveen-prakash-pal-728820256/)
-~Kshitiz Agrawal
- - [Tweet at me](https://twitter.com/your_username)        
- - kshitizagarwal1710@gmail.com
- - [linkedin](https://www.linkedin.com/in/kshitiz-agarwal-5360b4158/)
-~Rachit Goyal
+- Praveen Prakash Pal 
+  - [Tweet at me](https://twitter.com/your_username) 
+  - palprakashpraveen@gmail.com 
+  - [linkedin](https://www.linkedin.com/in/praveen-prakash-pal-728820256/)
+- Kshitiz Agrawal
+  - [Tweet at me](https://twitter.com/your_username)        
+  - kshitizagarwal1710@gmail.com
+  - [linkedin](https://www.linkedin.com/in/kshitiz-agarwal-5360b4158/)
+- Rachit Goyal
   - [Tweet at me](https://twitter.com/your_username) 
   - rg410345@gmail.com
   - [linkedin](https://www.linkedin.com/in/rachit-goyal-640b89247/)
