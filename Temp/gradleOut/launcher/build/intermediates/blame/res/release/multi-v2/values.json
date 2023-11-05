@@ -1,0 +1,96 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\worldLens\\Virtual-Reality-Tour-Unity-3D-World-Tour\\Temp\\gradleOut\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\d0342d8dcce5eddf7b6e108042022f38\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "53",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "464",
+                        "endColumns": "53",
+                        "endOffsets": "513"
+                    }
+                },
+                {
+                    "source": "E:\\worldLens\\Virtual-Reality-Tour-Unity-3D-World-Tour\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\freeformwindow.xml",
+                    "from": {
+                        "startLines": "5,6,2,4,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "221,286,55,167,112",
+                        "endColumns": "64,63,56,53,54",
+                        "endOffsets": "281,345,107,216,162"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "101,158,214,263,309",
+                        "endColumns": "56,55,48,45,46",
+                        "endOffsets": "153,209,258,304,351"
+                    }
+                },
+                {
+                    "source": "E:\\worldLens\\Virtual-Reality-Tour-Unity-3D-World-Tour\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,94",
+                        "endColumns": "37,65",
+                        "endOffsets": "90,157"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "356,396",
+                        "endColumns": "39,67",
+                        "endOffsets": "391,459"
+                    }
+                },
+                {
+                    "source": "E:\\worldLens\\Virtual-Reality-Tour-Unity-3D-World-Tour\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "11,13,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "518,618,756",
+                        "endLines": "12,15,19",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "613,751,978"
+                    }
+                },
+                {
+                    "source": "E:\\worldLens\\Virtual-Reality-Tour-Unity-3D-World-Tour\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}
