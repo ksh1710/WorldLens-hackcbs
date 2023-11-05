@@ -14,15 +14,15 @@ as a viable payment option
 * Github - Our project is stored in the github repository using github LFS extensions due to file sizes being too large
 
 ## Meet the Team
-~Praveen Prakash Pal 
- - [Tweet at me](https://twitter.com/your_username) 
- - palprakashpraveen@gmail.com 
- - [linkedin](https://www.linkedin.com/in/praveen-prakash-pal-728820256/)
-~Kshitiz Agrawal
- - [Tweet at me](https://twitter.com/your_username)        
- - kshitizagarwal1710@gmail.com
- - [linkedin](https://www.linkedin.com/in/kshitiz-agarwal-5360b4158/)
-~Rachit Goyal
+- Praveen Prakash Pal 
+  - [Tweet at me](https://twitter.com/your_username) 
+  - palprakashpraveen@gmail.com 
+  - [linkedin](https://www.linkedin.com/in/praveen-prakash-pal-728820256/)
+- Kshitiz Agrawal
+  - [Tweet at me](https://twitter.com/your_username)        
+  - kshitizagarwal1710@gmail.com
+  - [linkedin](https://www.linkedin.com/in/kshitiz-agarwal-5360b4158/)
+- Rachit Goyal
   - [Tweet at me](https://twitter.com/your_username) 
   - rg410345@gmail.com
   - [linkedin](https://www.linkedin.com/in/rachit-goyal-640b89247/)
@@ -30,5 +30,5 @@ as a viable payment option
 - [Click Here](https://www.canva.com/design/DAFzOh0lmXA/eVELiyRzD-L1QNtOt_goMQ/edit?utm_content=DAFzOh0lmXA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Conrtibutors
 [![Contributors](https://contrib.rocks/image?repo=ksh1710/WorldLens-hackcbs)](https://github.com/ksh1710/WorldLens-hackcbs/graphs/contributors)
-[![Contributors](https://contrib.rocks/image?repo=ksh1710/WorldLens-hackcbs)](https://github.com/ksh1710/WorldLens-hackcbs/graphs/contributors)
-[![Contributors](https://contrib.rocks/image?repo=ksh1710/WorldLens-hackcbs)](https://github.com/ksh1710/WorldLens-hackcbs/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=rachit-goyal1071/flutter-eventifyer)](https://github.com/rachit-goyal1071/flutter-eventifyer/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=Pal-prakash/desktop)](https://github.com/Pal-prakash/desktop/graphs/contributors)
