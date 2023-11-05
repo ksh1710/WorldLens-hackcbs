@@ -15,15 +15,15 @@ as a viable payment option
 
 ## Meet the Team
 - Praveen Prakash Pal 
-  - [Tweet at me](https://twitter.com/your_username) 
+  - [Tweet at me](https://twitter.com/Praveen_p_a_l) 
   - palprakashpraveen@gmail.com 
   - [linkedin](https://www.linkedin.com/in/praveen-prakash-pal-728820256/)
 - Kshitiz Agrawal
-  - [Tweet at me](https://twitter.com/your_username)        
+  - [Tweet at me](https://twitter.com/kshitiz_1710)        
   - kshitizagarwal1710@gmail.com
   - [linkedin](https://www.linkedin.com/in/kshitiz-agarwal-5360b4158/)
 - Rachit Goyal
-  - [Tweet at me](https://twitter.com/your_username) 
+  - [Tweet at me](https://twitter.com/Rachit_goyal246) 
   - rg410345@gmail.com
   - [linkedin](https://www.linkedin.com/in/rachit-goyal-640b89247/)
 ## Presentation
