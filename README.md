@@ -30,5 +30,5 @@ We utilized the following software to give our vision a solid skeleton
 - [Click Here](https://www.canva.com/design/DAFzOh0lmXA/eVELiyRzD-L1QNtOt_goMQ/edit?utm_content=DAFzOh0lmXA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Conrtibutors
 [![Contributors](https://contrib.rocks/image?repo=ksh1710/WorldLens-hackcbs)](https://github.com/ksh1710/WorldLens-hackcbs/graphs/contributors)
-[![Contributors](https://contrib.rocks/image?repo=rachit-goyal1071/flutter-eventifyer)](https://github.com/rachit-goyal1071/flutter-eventifyer/graphs/contributors)
-[![Contributors](https://contrib.rocks/image?repo=Pal-prakash/desktop)](https://github.com/Pal-prakash/desktop/graphs/contributors)
+
+
